@@ -1,4 +1,8 @@
 # HW-6
+after add list:
+##![1](https://github.com/Saod5557/HW-6/assets/124809082/db20c6b2-5f6e-47fe-a041-cfd9b6089045)
+befor add list:
+![2](https://github.com/Saod5557/HW-6/assets/124809082/1131d504-e393-40d6-aff0-dddb53ab9590)
 
 ## Description:
 Your task is to create one page as showing in picture  
